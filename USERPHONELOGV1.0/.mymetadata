@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="USERPHONELOGV1.0"
+  id="myeclipse.1431565832141"
+  context-root="/USERPHONELOGV1.0"
+  j2ee-spec="5.0"
+  archive="USERPHONELOGV1.0.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
